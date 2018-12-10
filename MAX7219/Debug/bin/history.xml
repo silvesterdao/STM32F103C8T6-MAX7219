@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g2 -nostartfiles -Map=MAX7219.map -O0 --gc-sections -LC:\Users\silve\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\MAX7219 -TC:\Users\silve\AppData\Roaming\CooCox\CoIDE\configuration\ProgramData\MAX7219/link.ld -g">
+      <target file="MAX7219.elf" lastModified="1679874677a">
+         <source file="..\obj\system_stm32f10x.o" lastModified="16798745886"/>
+         <source file="..\obj\stm32f10x_rcc.o" lastModified="16798745c9f"/>
+         <source file="..\obj\stm32f10x_tim.o" lastModified="167987457da"/>
+         <source file="..\obj\misc.o" lastModified="167987460f4"/>
+         <source file="..\obj\stm32f10x_spi.o" lastModified="1679874625c"/>
+         <source file="..\obj\stm32f10x_adc.o" lastModified="16798745d89"/>
+         <source file="..\obj\stm32f10x_usart.o" lastModified="16798745ee1"/>
+         <source file="..\obj\printf.o" lastModified="16798745bc4"/>
+         <source file="..\obj\startup_stm32f10x_md.o" lastModified="16798745924"/>
+         <source file="..\obj\stm32f10x_gpio.o" lastModified="167987459ef"/>
+         <source file="..\obj\main.o" lastModified="16798745ae9"/>
+      </target>
+   </processor>
+</history>
